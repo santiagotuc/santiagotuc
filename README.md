@@ -1,5 +1,3 @@
-## Hi there 👋 santiagotuc/santiagotuc
-
 # Hola, soy Santiago Emmanuel Molina 👋
 
 
